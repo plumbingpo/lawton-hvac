@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lawtonhvacco.com/sitemap.xml
